@@ -331,5 +331,9 @@ def handle_message(event):
 def home():
     return "婚姻諮商法律小幫手 LINE BOT 運作中！"
 
+if __name__ == "__main__":
+    app.run()
+
+
 
 
